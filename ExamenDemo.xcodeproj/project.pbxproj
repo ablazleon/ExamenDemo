@@ -58,11 +58,11 @@
 			children = (
 				3AEF971C2166220A0031D35C /* AppDelegate.swift */,
 				3AEF971E2166220A0031D35C /* ViewController.swift */,
+				3AEF972E216622340031D35C /* QuesoView.swift */,
 				3AEF97202166220A0031D35C /* Main.storyboard */,
 				3AEF97232166220A0031D35C /* Assets.xcassets */,
 				3AEF97252166220A0031D35C /* LaunchScreen.storyboard */,
 				3AEF97282166220A0031D35C /* Info.plist */,
-				3AEF972E216622340031D35C /* QuesoView.swift */,
 			);
 			path = ExamenDemo;
 			sourceTree = "<group>";
